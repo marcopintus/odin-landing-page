@@ -170,3 +170,14 @@ ul{
     margin-right: 140px;
     border:2px solid #E5E7EB;
 }
+.footer{
+    background-color: #1F2937;
+    color: #E5E7EB;
+    font-size: 18px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;
+    text-align: center;
+}
