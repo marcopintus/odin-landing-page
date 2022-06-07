@@ -105,3 +105,29 @@ ul{
     margin-top: 8px;
     color: #96979b;
 }
+
+.bot-mid{
+    padding: 16px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    background-color: #E5E7EB;
+}
+.q-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.quote{
+    font-size: 36px;
+    color: #1F2937;
+    width: 800px;
+    font-style: italic;
+    text-align: left;
+}
+.author{
+    width: 800px;
+    font-weight: bold;
+    text-align: end;
+}
