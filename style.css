@@ -52,6 +52,8 @@ ul{
 }
 .tc-second-text{
     margin-top: 4px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 .tc-right{
     width: 600px;
@@ -68,6 +70,7 @@ ul{
     border-radius: 8px;
     padding: 8px;
     width: 140px;
+    height: 42px;
 }
 
 .top-mid{
@@ -130,4 +133,40 @@ ul{
     width: 800px;
     font-weight: bold;
     text-align: end;
+}
+
+.bot{
+    padding: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.action{
+    background-color: #3882F6;
+    border-radius: 16px;
+    width: 1400px;
+    height: 140px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ba-left{
+    padding-left: 140px;
+}
+.ba-main-txt{
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+    margin: 4px;
+}
+.ba-second-txt{
+    font-size: 18px;
+    color: #E5E7EB;
+    margin: 0px;
+    margin-left: 4px;
+}
+.action > button{
+    margin-right: 140px;
+    border:2px solid #E5E7EB;
 }
